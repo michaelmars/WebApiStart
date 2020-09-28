@@ -1,0 +1,30 @@
+﻿[  
+  {
+    "log": "EXAMPLE_000002",
+    "id": "5605c0e5752afc005a000004",
+    "location": {
+      "lat": 35.92596388888889,
+      "lng": -96.74810972222222
+    },
+    "image_count": 66,
+    "date_creation": 1377012456330,
+    "latest_started_map": {
+      "user_status": "Complete"
+    },
+    "name": "Construction Example"
+  },
+  {
+    "log": "EXAMPLE_000001",
+    "id": "56048e63752afc0058000001",
+    "location": {
+      "lat": 48.60367083333334,
+      "lng": -97.21722638888889
+    },
+    "image_count": 301,
+    "date_creation": 1372605078006,
+    "latest_started_map": {
+      "user_status": "Complete"
+    },
+    "name": "Agriculture Example"
+  }
+]
